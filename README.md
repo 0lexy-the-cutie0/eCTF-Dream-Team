@@ -1,6 +1,6 @@
-# eCTF Insecure Example
+# eCTF_Dream_Team
 
-This repository holds the insecure example design for an eCTF Satellite TV System.
+This repository holds the secure example design for an eCTF Satellite TV System created by Kilgore College.
 
 ## Layout
 
