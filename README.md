@@ -31,6 +31,8 @@ This repository holds the secure example design for an eCTF Satellite TV System 
             - `tester.py` - Utility for testing decoder
         - `satellite.py` - Broadcasts frames from uplink to all decoders
     - `pyproject.toml` - File that tells pip how to install this module
+    - `flash.sh` -Shell script that will build the enviroment and flash a connected board
+
 
 ## Usage and Requirements
 
